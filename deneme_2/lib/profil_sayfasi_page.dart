@@ -163,10 +163,10 @@ class ProfilSayfasiPagestate extends State<ProfilSayfasiPage> {
                       });
                     },
                     options: <ValueItem<User>>[
-                      ValueItem(label: 'Option 1', value: User(name: 'User 1', id: 1)),
-                      ValueItem(label: 'Option 2', value: User(name: 'User 2', id: 2)),
-                      ValueItem(label: 'Option 3', value: User(name: 'User 3', id: 3)),
-                      ValueItem(label: 'Option 4', value: User(name: 'User 4', id: 4)),
+                      ValueItem(label: 'Miyop', value: User(name: 'User 1', id: 1)),
+                      ValueItem(label: 'Hipermetrop', value: User(name: 'User 2', id: 2)),
+                      ValueItem(label: 'Astigmat', value: User(name: 'User 3', id: 3)),
+                      ValueItem(label: 'Şaşılık', value: User(name: 'User 4', id: 4)),
                       ValueItem(label: 'Option 5', value: User(name: 'User 5', id: 5)),
                     ],
                     maxItems: 4,
